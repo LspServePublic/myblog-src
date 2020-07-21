@@ -2,7 +2,6 @@
 
 ## 搭建过程
 1. 本地安装**node.js**和**Git**
-   - 
 2. 进入gitbash输入一下命令检查安装是否成功
 ```shell
 $ git version                 #检查git版本
