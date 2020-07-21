@@ -2,13 +2,16 @@
 
 ## 搭建过程
 1. 本地安装**node.js**和**Git**
-2. 进入gitbash输入一下命令检查安装是否成功
+2. 进入gitbash输入以下命令检查安装是否成功
 ```shell
 $ git version                 #检查git版本
 $ node -v                     #检查node.js版本
 $ npm -v                      #检查npm版本
 ```
-
+3. 使用npm安装hexo
+```shell
+$ npm install hexo
+````
 ## hexo 使用方法
 
 ```shell
